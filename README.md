@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## This app site URL
 
-This app site URL (https://training-chat-a4112.web.app/)
+URL (https://training-chat-a4112.web.app/)
 
 
 ## Available Scripts
