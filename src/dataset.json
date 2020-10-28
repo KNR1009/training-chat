@@ -1,0 +1,213 @@
+{
+  "init": {
+    "answers": [
+      {
+        "content": "肩",
+        "nextId": "shoulder"
+      },
+      {
+        "content": "胸",
+        "nextId": "breast"
+      },
+      {
+        "content": "腕",
+        "nextId": "arm_dumbbell"
+      },
+      {
+        "content": "足",
+        "nextId": "leg"
+      }
+    ],
+    "question": "本日の筋トレメニューを選んでください💪"
+  },
+  "shoulder": {
+    "answers": [
+      {
+        "content": "マシーンでトレーニング",
+        "nextId": "shoulder_machine"
+      },
+      {
+        "content": "ダンベルでトレーニング",
+        "nextId": "shoulder_dumbbell"
+      },
+      {
+        "content": "戻る",
+        "nextId": "init"
+      }
+    ],
+    "question": "マシーンかダンベルかを選んでください"
+  },
+  "shoulder_machine": {
+    "answers": [
+      {
+        "content": "ラットプルダウン",
+        "nextId": "https://www.youtube.com/watch?v=1mtXFf0C6g4&t=116s"
+      },
+      {
+        "content": "ローロー",
+        "nextId": "https://www.youtube.com/watch?v=Gi1bzfSLz-M"
+      },
+      {
+        "content": "フェイスプル(ケーブル)",
+        "nextId": "https://www.youtube.com/watch?v=i2iJq16KusY"
+      },
+      {
+        "content": "次へ",
+        "nextId": "shoulder_machine_next"
+      }
+    ],
+    "question": "15回1セットで3~4セットやってみよう💪"
+  },
+  "shoulder_machine_next": {
+    "answers": [
+      {
+        "content": "サイドレイズ(ケーブル)",
+        "nextId": "https://www.youtube.com/watch?v=GW2oj1anAJ4"
+      },
+      {
+        "content": "リアデルトフライ(ケーブル)",
+        "nextId": "https://www.youtube.com/watch?v=SR-vLksqEeE"
+      },
+      {
+        "content": "終了(最初に戻る)",
+        "nextId": "init"
+      }
+    ],
+    "question": "あと2種目です。頑張ってください💪"
+  },
+  "shoulder_dumbbell": {
+    "answers": [
+      {
+        "content": "アーノルドプレス",
+        "nextId": "https://www.youtube.com/watch?v=f6CeYdgX02U&t=4s"
+      },
+      {
+        "content": "サイドレイズ",
+        "nextId": "https://www.youtube.com/watch?v=f6CeYdgX02U&t=4s"
+      },
+      {
+        "content": "リアレイズ",
+        "nextId": "https://www.youtube.com/watch?v=LexKPaiIjVs"
+      },
+      {
+        "content": "次へ",
+        "nextId": "shoulder_dumbbell_next"
+      }
+    ],
+    "question": "15回1セットで3セットやってみよう💪"
+  },
+  "shoulder_dumbbell_next": {
+    "answers": [
+      {
+        "content": "フロントレイズ",
+        "nextId": "https://www.youtube.com/watch?v=f6CeYdgX02U&t=4s"
+      },
+      {
+        "content": "ショルダープレス",
+        "nextId": "https://www.youtube.com/watch?v=f6CeYdgX02U&t=4s"
+      },
+      {
+        "content": "ダブリューレイズ",
+        "nextId": "https://www.youtube.com/watch?v=f6CeYdgX02U&t=4s"
+      },
+      {
+        "content": "終了",
+        "nextId": "最初に戻る"
+      }
+    ],
+    "question": "残り3種目頑張って！"
+  },
+  "breast": {
+    "answers": [
+      {
+        "content": "マシーンでトレーニング",
+        "nextId": "breast_machine"
+      },
+      {
+        "content": "ダンベルでトレーニング",
+        "nextId": "breast_dumbbell"
+      },
+      {
+        "content": "戻る",
+        "nextId": "init"
+      }
+    ],
+    "question": "マシーンかダンベルかを選んでください"
+  },
+  "breast_machine": {
+    "answers": [
+      {
+        "content": "チェストプレス",
+        "nextId": "https://www.youtube.com/watch?v=7ztscCjiRoQ"
+      },
+      {
+        "content": "ケーブルフライ",
+        "nextId": "https://www.youtube.com/watch?v=e4Vc5vqxDLI&list=PL6zUxT6DDKKac39gMSupSR5dsOgVd1n1S&index=7"
+      },
+      {
+        "content": "ハイケーブルフライ",
+        "nextId": "https://www.youtube.com/watch?v=h6gTbwN9sGk&list=PL6zUxT6DDKKac39gMSupSR5dsOgVd1n1S&index=8"
+      },
+      {
+        "content": "終了(最初に戻る)",
+        "nextId": "init"
+      }
+    ],
+    "question": "15回1セットで3~4セットやってみよう"
+  },
+  "breast_dumbbell": {
+    "answers": [
+      {
+        "content": "大胸筋上部",
+        "nextId": "https://www.youtube.com/watch?v=FvdrS0mqtT8"
+      },
+      {
+        "content": "大胸筋全般",
+        "nextId": "https://www.youtube.com/watch?v=n3rwKyLK50M&t=29s"
+      },
+      {
+        "content": "終了(最初に戻る)",
+        "nextId": "init"
+      }
+    ],
+    "question": "インターバルをとっていこう"
+  },
+  "arm_dumbbell": {
+    "answers": [
+      {
+        "content": "二頭,三頭,前腕筋(4種目)",
+        "nextId": "https://www.youtube.com/watch?v=7U5WalcdTHg&t=199s"
+      },
+      {
+        "content": "二頭,三頭,前腕筋(5種目)",
+        "nextId": "https://www.youtube.com/watch?v=7U5WalcdTHg&t=64s"
+      },
+      {
+        "content": "終了(最初に戻る)",
+        "nextId": "init"
+      }
+    ],
+    "question": "セットメニューで休憩も取ろう"
+  },
+  "leg_machine": {
+    "answers": [
+      {
+        "content": "レッグプレス(8~10回)",
+        "nextId": "https://www.youtube.com/watch?v=BzxjkQ7W9wQ"
+      },
+      {
+        "content": "レッグエクステンション(10~12回)",
+        "nextId": "https://www.youtube.com/watch?v=empJFZvDo1k"
+      },
+      {
+        "content": "レッグカール(10~12回)",
+        "nextId": "https://www.youtube.com/watch?v=c7LIqtaBY_U"
+      },
+      {
+        "content": "終了(最初に戻る)",
+        "nextId": "init"
+      }
+    ],
+    "question": "足のメニューです大変ですけど頑張って💪"
+  }
+}
