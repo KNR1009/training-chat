@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This app site URL (https://training-chat-a4112.web.app/)
+
+
+## Available Scripts
+
 In the project directory, you can run:
 
 ### `yarn start`
