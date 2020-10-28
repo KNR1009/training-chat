@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 URL (https://training-chat-a4112.web.app/)
 
+<img width="434" alt="スクリーンショット 2020-10-28 13 57 40" src="https://user-images.githubusercontent.com/57901015/97392777-f3d15a00-1925-11eb-9d9c-b453762bebdc.png">
+
+
 
 ## Available Scripts
 
